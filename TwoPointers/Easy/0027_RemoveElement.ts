@@ -1,5 +1,5 @@
 // LeetCode    0027 - Remove Element
-// Topic:      Array, Two Pointers
+// Topic:      Two Pointers, Array
 // Difficulty: Easy
 
 function removeElement(nums: number[], val: number): number {

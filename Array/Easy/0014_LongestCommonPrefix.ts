@@ -1,5 +1,5 @@
 // LeetCode    0014 - Longest Common Prefix
-// Topic:      Array
+// Topic:      Array, String, Trie
 // Difficulty: Easy
 
 function longestCommonPrefix(strs: string[]): string {

@@ -1,5 +1,5 @@
 // LeetCode    0020 - Valid Parentheses
-// Topic:      Stack
+// Topic:      Stack, String
 // Difficulty: Easy
 
 function isValid(s: string): boolean {
