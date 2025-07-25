@@ -10,4 +10,5 @@
 | 0026 | Remove Duplicates from Sorted Array | Easy | Two Pointers | Array | TypeScript | 2025.07.23 |
 | 0027 | Remove Element | Easy | Two Pointers | Array | TypeScript | 2025.07.24 |
 | 0028 | Find the Index of the First Occurrence in a String | Easy | Two Pointers | String, String Matching | TypeScript | 2025.07.24 |
+| 0035 | Search Insert Position | Easy | Binary Search | Array | TypeScript | 2025.07.24 |
 |  |  |  |  |  |  |  |
