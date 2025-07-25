@@ -12,4 +12,5 @@
 | 0028 | Find the Index of the First Occurrence in a String | Easy | Two Pointers | String, String Matching | TypeScript | 2025.07.24 |
 | 0035 | Search Insert Position | Easy | Binary Search | Array | TypeScript | 2025.07.24 |
 | 0058 | Length of Last Word | Easy | String |  | TypeScript | 2025.07.25 |
+| 0066 | Plus One | Easy | Array | Math | TypeScript | 2025.07.25 |
 |  |  |  |  |  |  |  |
