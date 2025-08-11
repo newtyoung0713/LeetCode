@@ -15,4 +15,5 @@
 | 0066 | Plus One | Easy | Array | Math | TypeScript | 2025.07.25 |
 | 0067 | Add Binary | Easy | Math | String, Bit Manipulation, Simulation | TypeScript | 2025.08.10 |
 | 0069 | MySqrt | Easy | Binary Search | Math | TypeScript | 2025.08.11 |
+| 0070 | ClimbingStairs | Easy | Dynamic Programming | Math, Memorization | TypeScript | 2025.08.11 |
 |  |  |  |  |  |  |  |
