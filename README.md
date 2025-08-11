@@ -13,4 +13,5 @@
 | 0035 | Search Insert Position | Easy | Binary Search | Array | TypeScript | 2025.07.24 |
 | 0058 | Length of Last Word | Easy | String |  | TypeScript | 2025.07.25 |
 | 0066 | Plus One | Easy | Array | Math | TypeScript | 2025.07.25 |
+| 0067 | Add Binary | Easy | Math | String, Bit Manipulation, Simulation | TypeScript | 2025.08.10 |
 |  |  |  |  |  |  |  |
